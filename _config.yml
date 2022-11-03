@@ -56,10 +56,10 @@ social-network-links:
   github: nicolascuello
   twitter: nomadastro
 #  patreon: DeanAttali
-  youtube: c/daattali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: Nicolás Cuello
+#  linkedin: Nicolás Cuello
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0003-3713-8073
-  google-scholar: Nicolás Cuello
+#  ORCID: 0000-0003-3713-8073
+#  google-scholar: Nicolás Cuello
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -89,15 +89,15 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  linkedin: true
-  google-scholar: true
-  ORCID: true
-  facebook: false
-  vk: false
+ # linkedin: true
+ # google-scholar: true
+ # ORCID: true
+ # facebook: false
+ # vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://cuellonicolas.wixsite.com/astrophysics/home""
+# url-pretty: "https://cuellonicolas.wixsite.com/astrophysics/home""
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
