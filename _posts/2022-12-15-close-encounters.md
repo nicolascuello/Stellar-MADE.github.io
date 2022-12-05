@@ -5,7 +5,7 @@ subtitle: How stellar flybys shape planet-forming discs
 cover-img: /assets/img/Cuello+2023-cover.png
 thumbnail-img: /assets/img/Cuello+2023-cover.png
 share-img: /assets/img/Cuello+2023-cover.png
-tags: [flyby, planets, publication]
+tags: [stars, flybys, discs, planets, Solar System, simulations, observations, publication]
 comments: true
 ---
 
