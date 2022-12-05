@@ -11,6 +11,10 @@ comments: true
 
 We review the role of stellar flybys and encounters in shaping planet-forming discs around young stars, based on the published literature on this topic in the last 30 years. Since most stars ≤ 2 Myr old harbour protoplanetary discs, tidal perturbations affect planet formation. First, we examine the probability of experiencing flybys or encounters: More than 50% of stars with planet-forming discs in a typical star forming environment should experience a close stellar encounter or flyby within 1000 au. Second, we detail the dynamical effects of flybys on planet-forming discs. Pro- grade, parabolic, disc-penetrating flybys are the most destructive. Grazing and penetrating flybys in particular lead to the capture of disc material by the secondary to form a highly misaligned circumsecondary disc with respect to the disc around the primary. One or both discs may un- dergo extreme accretion and outburst events, similar to the ones observed in FU Orionis-type stars. Warps and broken discs are distinct signatures of retrograde flybys. Third, we review some recently observed stellar systems with discs where a stellar flyby or an encounter is suspected — including UX Tau, RW Aur, AS 205, Z CMa, and FU Ori. Finally, we discuss the implications of stellar flybys for planet formation and exoplanet demographics, including possible imprints of a flyby in the Solar System in the orbits of trans-Neptunian objects and the Sun’s obliquity.
 
+For more information:  
+Paper available [**here**](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract) via the Astrophysics Data System
+
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
