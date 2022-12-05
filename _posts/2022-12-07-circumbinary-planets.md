@@ -31,4 +31,4 @@ exoplanet, followed by the mass ratio of the binary and the initial eccentricity
 
 
 For more information:  
-Paper available [**here*](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract) via the Astrophysics Data System
+Paper available [**here**](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract) via the Astrophysics Data System
