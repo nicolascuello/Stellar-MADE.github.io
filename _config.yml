@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Stellar-MADE project
+title: Pirates, stars & planets
 
 # Your name to show in the footer
 author: Nicolás Cuello
@@ -21,11 +21,14 @@ author: Nicolás Cuello
 
 navbar-links:
   About Me: "aboutme"
+  Stellar-MADE: "https://nicolascuello.github.io/Stellar-MADE/"
+  SANDS: "https://nicolascuello.github.io/SANDS/"
   Resources:
-    - Stellar-MADE: "https://nicolascuello.github.io/Stellar-MADE/"
-    - SANDS: "https://nicolascuello.github.io/SANDS/"
+    - Codes: "https://nicolascuello.github.io/Stellar-MADE/codes/"
     - 4pi/360: "https://www.youtube.com/channel/UC1xIQfTHDtX2UrNhM-UVFRw"
-  Author's home: "https://cuellonicolas.wixsite.com/astrophysics/home"
+    - Talks: "https://nicolascuello.github.io/tutorials/"
+
+#Author's home: "https://cuellonicolas.wixsite.com/astrophysics/home"
 
 ################
 # --- Logo --- #
@@ -33,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/pirate.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
