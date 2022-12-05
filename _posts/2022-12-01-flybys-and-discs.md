@@ -14,4 +14,4 @@ Title: On the rise times in FU Orionis events.
 TO BE COMPLETED
 
 For more information:  
-Paper available [**here*](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract) via the Astrophysics Data System
+Paper available [**here**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract) via the Astrophysics Data System
