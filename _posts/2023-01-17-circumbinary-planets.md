@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circumbinary planets
+title: Planets around two stars
 subtitle: Migration, trapping in mean-motion resonances, and ejection
 cover-img: /assets/img/Gianuzzi+2023-cover.png
 thumbnail-img: /assets/img/Gianuzzi+2023-cover.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Close encounterss
+title: Close encounters of the stellar kind
 subtitle: How stellar flybys shape planet-forming discs
 cover-img: /assets/img/Cuello+2023-cover.png
 thumbnail-img: /assets/img/Cuello+2023-cover.png

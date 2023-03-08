@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outbursts from colliding discs
+title: Stellar outbursts from colliding discs
 subtitle: Sustained stellar outbursts during flybys
 cover-img: /assets/img/Borchert+2022b-cover.png
 thumbnail-img: /assets/img/Borchert+2022b-cover.png

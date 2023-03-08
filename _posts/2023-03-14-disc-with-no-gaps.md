@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The intriguing case of MP Mus
+title: The intriguing case of the star MP Mus
 subtitle: A protoplanetary disk with no visible gaps
 cover-img: /assets/img/Ribas+2023-cover.png
 thumbnail-img: /assets/img/Ribas+2023-cover.png

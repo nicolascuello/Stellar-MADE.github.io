@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flybys and discs
+title: Flybys, discs and bursting stars
 subtitle: On the rise times in FU Orionis events
 cover-img: /assets/img/Borchert+2022-cover.png
 thumbnail-img: /assets/img/Borchert+2022-cover.png
